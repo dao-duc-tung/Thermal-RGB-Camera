@@ -2,6 +2,8 @@
 
 This project won a National Second Prize contest in a National Contest held by Intel Vietnam.
 
+This project is supported by School of Information and Communication Technology - Hanoi University of Science and Technology.
+
 # Overview
 
 A thermal camera is used to show the high-temperature object, and an RGB camera to show the detail of that object.
