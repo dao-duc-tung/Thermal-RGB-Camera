@@ -1,6 +1,6 @@
 # Thermal-RGB Camera
 
-This project won a National Second Prize in 2nd Vietnam Maker Contest with Intel Galileo 2016 held by Intel Vietnam.
+This project won a Second Prize in 2nd Vietnam Maker Contest with Intel Galileo 2016 held by Intel Vietnam.
 
 This project is supported by School of Information and Communication Technology - Hanoi University of Science and Technology.
 
